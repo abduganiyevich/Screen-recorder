@@ -11,7 +11,7 @@ const App = () => {
   };
 
   return (
-    <div>
+    <div className='container'>
       <h1>React Media Recorder</h1>
       <VideoRecorder />
     </div>
